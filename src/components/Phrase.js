@@ -16,6 +16,7 @@ const PhraseContainer = styled.div`
 		text-align: center;
 		position: relative;
 		padding-left: 4rem;
+		font-size: 1.6rem;
 
 		&::before {
 			content: open-quote;
